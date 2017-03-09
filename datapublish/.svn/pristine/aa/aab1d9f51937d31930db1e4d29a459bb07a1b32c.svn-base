@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/kedares/lib/Axis2/axiom-api-1.2.12.jar"/>
+	<classpathentry kind="lib" path="/kedares/lib/Axis2/axis2-adb-1.6.1.jar" sourcepath="/kedares/lib-src/axis2-1.6.2-src.zip"/>
+	<classpathentry kind="lib" path="/kedares/lib/Axis2/axis2-kernel-1.6.1.jar" sourcepath="/kedares/lib-src/axis2-1.6.2-src.zip"/>
+	<classpathentry kind="lib" path="/kedares/lib/com_commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/kedares/lib/log4j-1.2.16.jar" sourcepath="/kedares/lib-src/apache-log4j-1.2.16.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.utility"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_26">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/kedares/lib/c3p0-0.9.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
