@@ -6,7 +6,10 @@ import java.sql.SQLException;
 
 import com.keda.webservice.server.utils.LogCacheUtil;
 
-
+/**
+ * 测试提交
+ * 描述：TODO 
+ */
 public class SXMS_Mysql {
 
 	public static String ip = "10.10.11.45";
