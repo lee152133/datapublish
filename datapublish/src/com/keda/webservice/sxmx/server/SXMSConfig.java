@@ -2,7 +2,7 @@ package com.keda.webservice.sxmx.server;
 
 /**
  * 自定义配置类，用于接收主系统的自定义配置
- * 
+ * aaa
  * @author root
  * 
  */
