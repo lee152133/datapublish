@@ -21,6 +21,9 @@ import com.keda.webservice.server.yctx.domian.YCTX_Department;
 import com.keda.webservice.server.yctx.domian.YCTX_Room;
 import com.keda.webservice.server.yctx.req.UploadYCTXRoominfoReq;
 
+/**
+ * sss
+ */
 public class YCTX_PulishTask extends AbstarctTask {
 	
 	private static Logger log = Logger.getLogger(YCTX_PulishTask.class);
